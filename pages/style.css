@@ -1,0 +1,13 @@
+body{
+    background-color: #bcdaf3;
+    
+}
+
+main{
+    width: 400px;
+    height: 700px;
+    background-color: white;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+}
