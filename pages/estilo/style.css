@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wdth,wght@75..100,400..700&display=swap');
+
+body{
+    background-color: #bcdaf3;
+    
+}
+
+main{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10%;
+    justify-content: center;    
+}
+
+#main_title{
+    font: 800 normal 1.5em 'DynaPuff', 'sans-serif';
+    text-align: center;
+}
+
+#main_img{
+    width: 100px;
+    height: 100px;
+    border-radius: 15%;
+}
+
+form{
+    margin-bottom: auto;
+    margin: 0px;
+    width: 400px;
+}
